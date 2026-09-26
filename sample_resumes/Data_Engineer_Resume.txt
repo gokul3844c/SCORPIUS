@@ -1,0 +1,17 @@
+===================================================================
+TAYLOR REED - DATA ENGINEER
+Email: taylor.reed@example.com | GitHub: github.com/taylorreed-de
+===================================================================
+
+SUMMARY:
+Data Engineer experienced in building high-throughput PySpark data pipelines, Snowflake/Redshift data warehousing, Apache Airflow ETL orchestration, and Kafka streaming.
+
+TECHNICAL SKILLS:
+- Big Data & ETL: Python, PySpark, Hadoop, Apache Airflow, ETL Pipelines, DAG Orchestration.
+- Warehousing & SQL: SQL, Snowflake, Redshift, Dimensional Modeling, BigQuery.
+- Streaming & Cloud: Apache Kafka, Event-Driven Streaming, AWS, GCP, S3.
+- Certifications: AWS Certified Data Engineer, GCP Professional Data Engineer.
+
+PROJECTS & EXPERIENCE:
+1. Enterprise Data Lake: Architected PySpark & Airflow ETL pipelines processing 10TB+ daily data.
+2. Real-Time Kafka Stream Processor: Implemented Kafka pub/sub streaming integration for financial transactions.
